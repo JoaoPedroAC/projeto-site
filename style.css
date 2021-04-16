@@ -60,6 +60,7 @@ body {
 .corpo {
     width: 100%;
     text-align: center;
+    background: linear-gradient(to bottom, red, orange);
 }
 
 .corpo>h2 {
