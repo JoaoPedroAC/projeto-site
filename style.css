@@ -57,10 +57,21 @@ body {
 
 /*corpo do site*/
 
+.papel {
+    width: 60%;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+    background-clip: padding-box;
+}
+
 .corpo {
     width: 100%;
     text-align: center;
     background: linear-gradient(to bottom, red, orange 50%);
+    padding: 20px;
+    opacity: 1;
 }
 
 .corpo>h2 {
